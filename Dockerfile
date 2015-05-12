@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:latest
 MAINTAINER confirm IT solutions, dbarton
 
 # Install Python development headers and PIP (PyPi) package manager via APT.
