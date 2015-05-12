@@ -1,6 +1,6 @@
 # Image
 
-This is a docker base image for  __Debian Jessie__ with a pre-installed __Ansible Core__.
+This is a docker base image for  __Debian__ with a pre-installed __Ansible Core__.
 
 # Registry
 
