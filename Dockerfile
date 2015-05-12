@@ -4,7 +4,7 @@
 # https://github.com/confirm-it-solutions/docker-debian
 #
 
-FROM debian:latest
+FROM debian:7
 
 MAINTAINER confirm IT solutions, dbarton
 
