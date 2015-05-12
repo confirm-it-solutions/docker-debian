@@ -7,7 +7,7 @@ RUN apt-get update \
     && apt-get clean
 
 # Install latest Ansible via PIP.
-RUN pip --no-cache-dir install ansible
+RUN pip install ansible
 
 # Create Ansible inventory.
 RUN mkdir -p /etc/ansible \
