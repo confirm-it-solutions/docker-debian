@@ -1,3 +1,9 @@
+#
+# Dockerfile for debian with ansible installed.
+#
+# https://github.com/confirm-it-solutions/docker-debian
+#
+
 FROM debian:latest
 
 MAINTAINER confirm IT solutions, dbarton
